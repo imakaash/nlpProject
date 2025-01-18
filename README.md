@@ -1,7 +1,7 @@
 
-# Automobile query Coding Task
+# Automobile Coding Task
 
-This file walks you through the implementation of an application that can take unstructured prompts written by the user and convert them into a structured request body which may look something like below.
+This file walks you through the implementation of an application that can take unstructured prompts written by the user and convert them into a structured request body using `spaCy` which may look something like below.
 
 {
     'modelTypeCodes': ['21EM'], 
